@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">404 ERROR</h1>
+<h1 align="center">Team Page</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -8,8 +8,11 @@
 
 <div align="center">
   <h3>
+  <a href="https://balbir-25.github.io/team-page">
+      Demo
+    </a>
     <span> | </span>
-    <a href="https://balbir-25.github.io/404-error">
+    <a href= "https://github.com/balbir-25/team-page">
       Solution
     </a>
     <span> | </span>
